@@ -1,0 +1,12 @@
+Requirements:
+	python
+	streamlit
+	pandas
+	altair
+	plotly
+	sklearn
+
+Where to see Analysis?
+open terminal
+go to the directory where App.py and .csv files are placed. open terminal in that directory
+write "streamlit run App.py"
